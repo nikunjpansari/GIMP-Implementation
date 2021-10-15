@@ -1,1 +1,1 @@
-# gimp
+# GIMP Illustrations
