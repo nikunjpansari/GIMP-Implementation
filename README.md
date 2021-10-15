@@ -1,1 +1,1 @@
-# GIMP-Implementation
+# gimp
